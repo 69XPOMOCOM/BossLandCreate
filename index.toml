@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/locatorbar.json"
+hash = "13b954abc4afa99914d35cdf44aedc72becf68e8e6c632e37cb350fb195851e3"
+
+[[files]]
 file = "hosted-mods/aerocopycats-1.1.1.jar"
 hash = "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
 
