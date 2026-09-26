@@ -13,6 +13,10 @@ file = "hosted-mods/dimworldborder-1.21.1-1.1.1-universal.jar"
 hash = "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"
 
 [[files]]
+file = "hosted-mods/legacyfreecam-neoforge-2.0.0+mc1.21.1.jar"
+hash = "2baa3b01c5bffb4a78b6b8a0362f0f7329e9e5c20cf44088447d2723b71c1c5d"
+
+[[files]]
 file = "hosted-mods/ragdoll_reactions-1.21.1-0.7.0.jar"
 hash = "d61a118c0b5ad2f3e761af6b3d71726bc2887bb3d0c7c90c2dc604bb4d3792b8"
 
@@ -23,6 +27,10 @@ hash = "62e67cb468bdd4d2240e059c24aac19a019ea5373149b788f24f88d22a017013"
 [[files]]
 file = "hosted-mods/servercore-neoforge-1.5.19+1.21.1.jar"
 hash = "a5706aa0bb3a47c5f1adab44306685736688ec03414f60beb4fcbe05b99f5a82"
+
+[[files]]
+file = "hosted-mods/webcam-neoforge-4.4.0-1.21.1.jar"
+hash = "41651048be54ff5da71bbc92154cb5f6ae3ff2831b7938555b66c6d4543d4039"
 
 [[files]]
 file = "manifest.json"
@@ -344,6 +352,11 @@ hash = "00bacfc5a98d9b0dff90bbad503def28abf970a2061c9456f721e442bc32ab29"
 metafile = true
 
 [[files]]
+file = "mods/legacyfreecam.pw.toml"
+hash = "e0a929fd8a35b3ec864c91dad45b548b3b3604b4383a7cd13dbd1b6f01866bd9"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "fb6171c8f7ff0d83513b3f75ee5d7a98659559c427d79fb69eb0219639af8a37"
 metafile = true
@@ -516,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/ui.pw.toml"
 hash = "07231282cc2bdc8e05532ecac2e15fd0ad131abb99e2bfbe04ce75ce2c09f983"
+metafile = true
+
+[[files]]
+file = "mods/webcam.pw.toml"
+hash = "032e0258128f949a35b4f2d686e3fb8b7ba446122c5cfd3bb51f09877bf5c6c5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "legacyfreecam"
+filename = "legacyfreecam-neoforge-2.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/69XPOMOCOM/BossLandCreate/main/hosted-mods/legacyfreecam-neoforge-2.0.0+mc1.21.1.jar"
+hash-format = "sha256"
+hash = "2baa3b01c5bffb4a78b6b8a0362f0f7329e9e5c20cf44088447d2723b71c1c5d"

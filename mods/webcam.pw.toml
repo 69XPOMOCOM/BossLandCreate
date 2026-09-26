@@ -1,0 +1,8 @@
+name = "webcam"
+filename = "webcam-neoforge-4.4.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/69XPOMOCOM/BossLandCreate/main/hosted-mods/webcam-neoforge-4.4.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "41651048be54ff5da71bbc92154cb5f6ae3ff2831b7938555b66c6d4543d4039"
