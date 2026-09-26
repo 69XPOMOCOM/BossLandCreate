@@ -1,0 +1,13 @@
+name = "Figura ExtraBone"
+filename = "figuraextrabone-0.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0ec25a2d8aaa8e7a440da6398855d24447bcc5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7981100
+project-id = 1524253

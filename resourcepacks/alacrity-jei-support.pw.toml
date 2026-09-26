@@ -1,0 +1,13 @@
+name = "Alacrity | Just Enough Items (JEI) Support"
+filename = "Alacrity - Just Enough Items.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "446589d675796ed2f2ea60349f53eea930570b43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8214989
+project-id = 1568518

@@ -1,0 +1,13 @@
+name = "InsaneLib"
+filename = "insanelib-2.4.21.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8977d9ba0a8a8d6786441d2ef9341331d6f8ad5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8485649
+project-id = 465109

@@ -1,0 +1,13 @@
+name = "Cloth Config API BDCraft"
+filename = "[512x - 32x] Cloth Config 2 BDCraft - 1.20-1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea65ef270c8dbd22eede8549120273bdd17845ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7667017
+project-id = 1469842
