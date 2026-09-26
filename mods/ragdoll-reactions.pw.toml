@@ -1,13 +1,8 @@
-name = "Ragdoll Reactions"
+name = "ragdoll-reactions"
 filename = "ragdoll_reactions-1.21.1-0.7.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "60fd4e9695b4cc3055ef728dc1023f0a335cfc32"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8281400
-project-id = 1572496
+url = "https://raw.githubusercontent.com/69XPOMOCOM/BossLandCreate/main/hosted-mods/ragdoll_reactions-1.21.1-0.7.0.jar"
+hash-format = "sha256"
+hash = "d61a118c0b5ad2f3e761af6b3d71726bc2887bb3d0c7c90c2dc604bb4d3792b8"

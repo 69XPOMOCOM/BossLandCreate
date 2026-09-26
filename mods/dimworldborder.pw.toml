@@ -1,13 +1,8 @@
-name = "DimWorldBorder"
+name = "dimworldborder"
 filename = "dimworldborder-1.21.1-1.1.1-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fda25f75c293c204de0161b38853ec730a846726"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8488144
-project-id = 1305645
+url = "https://raw.githubusercontent.com/69XPOMOCOM/BossLandCreate/main/hosted-mods/dimworldborder-1.21.1-1.1.1-universal.jar"
+hash-format = "sha256"
+hash = "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"

@@ -1,13 +1,8 @@
-name = "Sable: Ragdolls"
+name = "sable-ragdolls"
 filename = "sable_player_ragdoll-1.21.1-0.7.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c47b304774e251bd81861e4ca0cdfce9fb3c9fde"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8295399
-project-id = 1572492
+url = "https://raw.githubusercontent.com/69XPOMOCOM/BossLandCreate/main/hosted-mods/sable_player_ragdoll-1.21.1-0.7.2.jar"
+hash-format = "sha256"
+hash = "62e67cb468bdd4d2240e059c24aac19a019ea5373149b788f24f88d22a017013"
