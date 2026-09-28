@@ -1,0 +1,8 @@
+name = "resource-gamma-util"
+filename = "resource_gamma_util-neoforge-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/69XPOMOCOM/BossLandCreate/main/hosted-mods/resource_gamma_util-neoforge-1.21.1-1.4.0.jar"
+hash-format = "sha256"
+hash = "e4e6651013077576611d62a102a90cb97d3054882454eb3f3b421d2d1b20183e"

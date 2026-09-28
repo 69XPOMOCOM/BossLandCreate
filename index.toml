@@ -25,6 +25,10 @@ file = "hosted-mods/ragdoll_reactions-1.21.1-0.7.0.jar"
 hash = "d61a118c0b5ad2f3e761af6b3d71726bc2887bb3d0c7c90c2dc604bb4d3792b8"
 
 [[files]]
+file = "hosted-mods/resource_gamma_util-neoforge-1.21.1-1.4.0.jar"
+hash = "e4e6651013077576611d62a102a90cb97d3054882454eb3f3b421d2d1b20183e"
+
+[[files]]
 file = "hosted-mods/sable_player_ragdoll-1.21.1-0.7.2.jar"
 hash = "62e67cb468bdd4d2240e059c24aac19a019ea5373149b788f24f88d22a017013"
 
@@ -448,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/reliable-remover.pw.toml"
 hash = "559e355c6a08c618f179fecc310af92e259ca1f93cf61b3ae8a02958c0b310a1"
+metafile = true
+
+[[files]]
+file = "mods/resource-gamma-util.pw.toml"
+hash = "d6d4406be539dee12bb4bb93103fb46ef7169c6e388efa85f30abdde5c20dab9"
 metafile = true
 
 [[files]]
