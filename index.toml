@@ -106,6 +106,11 @@ hash = "b7a62536dc77c9219968f77157f2e2f96e258fd1739f4dace85019035feccfd2"
 metafile = true
 
 [[files]]
+file = "mods/chatplus.pw.toml"
+hash = "36e141bac3719007b1c246d5f05dfebdaa7035ea44baea785240463bf7f2218c"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "144d4bd742122408670a1453c889191a15cb4a7912956dbe8db6518fe1a26b2f"
 metafile = true

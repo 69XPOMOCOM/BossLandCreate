@@ -1,0 +1,8 @@
+name = "ChatPlus"
+filename = "chatplus-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/69XPOMOCOM/BossLandCreate/main/hosted-mods/chatplus-1.0.0.jar"
+hash-format = "sha256"
+hash = "2ecc9b072459103e823ee7b36f525d99c22380c06ced1d17e632361b037705df"
