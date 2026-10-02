@@ -1,12 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "b169e8231e2c51636316989433ddb3bf9c00f2110e15b6ff5f43310c44d9a70b"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "92272bc78f5317f874e367a6f1b47c283c42b41ce09838ae874c16ec6aa14671"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "152142031466b9d7925cf76d3d6d7d9c038a94d34a64d53fa867b4ada6e6e503"
+
+[[files]]
 file = "config/locatorbar.json"
 hash = "13b954abc4afa99914d35cdf44aedc72becf68e8e6c632e37cb350fb195851e3"
 
 [[files]]
 file = "hosted-mods/aerocopycats-1.1.1.jar"
 hash = "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
+
+[[files]]
+file = "hosted-mods/chatplus-1.0.0.jar"
+hash = "2ecc9b072459103e823ee7b36f525d99c22380c06ced1d17e632361b037705df"
 
 [[files]]
 file = "hosted-mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
@@ -578,6 +594,10 @@ metafile = true
 file = "mods/yungs-api-neoforge.pw.toml"
 hash = "a7f7162205a99fed65c2191907c00ee6a5f8a8a87cfd661e8d3829ebe346306f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/CreateUtility.zip"
+hash = "fe5b288d6e9d983a361bf77a2586150825359d5fe437696d90ec10e3661622f8"
 
 [[files]]
 file = "resourcepacks/alacrity-jei-support.pw.toml"
